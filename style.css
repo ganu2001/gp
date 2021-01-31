@@ -1,0 +1,71 @@
+
+.hdr{
+    background-color: Gold;
+}
+
+ul.solid {outline-style: solid;}
+
+li {
+	margin: 0;
+	list-style: none;
+	background-image: url("right_arrow.png");
+	background-repeat: no-repeat;
+	background-position: right center;
+    background-size: 4%;
+    border-bottom:1px solid;
+    padding: 5%;
+}
+
+a {
+    color:white;
+    text-decoration: none;
+}
+
+ul h4{
+    text-align: left;
+}
+
+h1{
+    align-self: center;
+    background-size: 4%;
+    border-bottom:5px solid; 
+    padding-bottom: 1%
+}
+
+h2{
+    color: aqua
+}
+
+
+.product-body{
+    background-color:whitesmoke;
+    max-width: 80%;
+    margin: auto;
+}
+
+.product-body td{
+    text-align: center;
+   /* width: 40%;
+    height: 40%;
+    border: 1px solid;
+    margin-bottom: 2%*/
+}
+
+.product-body img{
+    width: 60%;
+    height: 60%;
+    border: 1px solid;
+    
+}
+
+#p-name{
+    color: black;
+    font-size: 18px;
+    font-style: italic
+}
+
+#p-amt{
+    color: #242424;
+    font-size: 14px;
+}
+
